@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "867325064971",
+    "firebase_url": "https://smart-home-c08c4-default-rtdb.firebaseio.com",
+    "project_id": "smart-home-c08c4",
+    "storage_bucket": "smart-home-c08c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867325064971:android:b26cead08f544f3043540e",
+        "android_client_info": {
+          "package_name": "com.onwords.admin_room_tap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867325064971-5l5riq3nfda5vcapuatp1u5k8h8r4iam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onwords.admin_room_tap",
+            "certificate_hash": "475f7ff6ae8b397ffe987f2ed9829994d0f9e1a6"
+          }
+        },
+        {
+          "client_id": "867325064971-bdt360vnkcs79utovqa5iirqg8j1qh9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0H6cYHCkJ2ZFV6ykM77BMqgNDPKXEjQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867325064971-bdt360vnkcs79utovqa5iirqg8j1qh9i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "867325064971-bptomini4uvo6ghc28pb6fh0g198md10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onwords.smarthome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867325064971:android:12ad3683361981b743540e",
+        "android_client_info": {
+          "package_name": "com.onwords.smart_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867325064971-bdt360vnkcs79utovqa5iirqg8j1qh9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0H6cYHCkJ2ZFV6ykM77BMqgNDPKXEjQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867325064971-bdt360vnkcs79utovqa5iirqg8j1qh9i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "867325064971-bptomini4uvo6ghc28pb6fh0g198md10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onwords.smarthome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867325064971:android:2927082f037611b143540e",
+        "android_client_info": {
+          "package_name": "com.onwords.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867325064971-7g296if2080gac44dde0vspsd2kp9uj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onwords.smarthome",
+            "certificate_hash": "475f7ff6ae8b397ffe987f2ed9829994d0f9e1a6"
+          }
+        },
+        {
+          "client_id": "867325064971-bdt360vnkcs79utovqa5iirqg8j1qh9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0H6cYHCkJ2ZFV6ykM77BMqgNDPKXEjQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867325064971-bdt360vnkcs79utovqa5iirqg8j1qh9i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "867325064971-bptomini4uvo6ghc28pb6fh0g198md10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onwords.smarthome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867325064971:android:69be264730e62d5a43540e",
+        "android_client_info": {
+          "package_name": "com.ps_castle_smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867325064971-uctbbj9jheovipv2tft7jm8fqfhk7bm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ps_castle_smarthome",
+            "certificate_hash": "99ff8e10045d008e9d453b521601c344ff85e4a7"
+          }
+        },
+        {
+          "client_id": "867325064971-bdt360vnkcs79utovqa5iirqg8j1qh9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0H6cYHCkJ2ZFV6ykM77BMqgNDPKXEjQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867325064971-bdt360vnkcs79utovqa5iirqg8j1qh9i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "867325064971-bptomini4uvo6ghc28pb6fh0g198md10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onwords.smarthome"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
